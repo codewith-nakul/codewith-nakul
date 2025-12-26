@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nakul 👋
 
-<!--
-**codewith-nakul/codewith-nakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning Data Science from the ground up.  
+This GitHub documents my journey — concepts, practice, and steady improvement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What this profile reflects
+- How I approach problems
+- How I learn step by step
+- How my thinking improves over time
+
+---
+
+## 🎯 Current focus
+- Data Science fundamentals
+- Data analysis and problem solving
+- Writing clear, explainable code
+- Using GitHub as a learning log
+
+---
+
+## 📌 Personal rule
+> I only publish work that I can explain confidently.
+
+---
+
+## 🚀 Goal
+Build strong fundamentals and become job-ready for entry-level Data Science roles.
+
+---
+
+📫 GitHub: https://github.com/codewith-nakul
+
